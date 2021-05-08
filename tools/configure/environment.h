@@ -57,7 +57,9 @@ enum Compiler {
     CC_NET2010 = 0xA0,
     CC_NET2012 = 0xB0,
     CC_NET2013 = 0xC0,
-    CC_NET2015 = 0xD0
+    CC_NET2015 = 0xD0,
+    CC_NET2017 = 0xE0,
+    CC_NET2019 = 0xF0
 };
 
 struct CompilerInfo;
